@@ -1,0 +1,90 @@
+color,director_name,duration,gross,genres,movie_title,title_year,language,country,budget,imdb_score,actors,movie_facebook_likes
+color,martin scorsese,240,116866727.0,"['biography', 'comedy', 'crime', 'drama']",The Wolf of Wall Street,2013,english,Usa,100000000.0,8.2,"Leonardo DiCaprio,Matthew McConaughey,Jon Favreau",138000
+color,shane black,195,408992272.0,"['action', 'adventure', 'sci-fi']",Iron Man 3,2013,english,Usa,200000000.0,7.2,"Robert Downey Jr.,Jon Favreau,Don Cheadle",95000
+color,quentin tarantino,187,54116191.0,"['crime', 'drama', 'mystery', 'thriller', 'western']",The Hateful Eight,2015,english,Usa,44000000.0,7.9,"Craig Stark,Jennifer Jason Leigh,Zoë Bell",114000
+color,kenneth lonergan,186,46495.0,['drama'],Margaret,2011,english,Usa,14000000.0,6.5,"Matt Damon,Kieran Culkin,John Gallagher Jr.",0
+color,peter jackson,186,258355354.0,"['adventure', 'fantasy']",The Hobbit: The Desolation of Smaug,2013,english,Usa,225000000.0,7.9,"Aidan Turner,Adam Brown,James Nesbitt",83000
+,,183,330249062.0,"['action', 'adventure', 'sci-fi']",Batman v Superman: Dawn of Justice,202,english,Usa,250000000.0,6.9,"Henry Cavill,Lauren Cohan,Alan D. Purwin",197000
+color,peter jackson,-50,303001229.0,"['adventure', 'fantasy']",The Hobbit: An Unexpected Journey,2012,english,Usa,180000000.0,7.9,"Aidan Turner,Adam Brown,James Nesbitt",166000
+color,joss whedon,173,623279547.0,"['action', 'adventure', 'sci-fi']",The Avengers,2012,english,Usa,220000000.0,8.1,"Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson",123000
+color,joss whedon,173,623279547.0,"['action', 'adventure', 'sci-fi']",The Avengers,2012,english,Usa,220000000.0,8.1,"Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson",123000
+,tom tykwer,172,27098580.0,"['drama', 'sci-fi']",Cloud Atlas,2012,english,Germany,102000000.0,-7.5,"Tom Hanks,Jim Sturgess,Jim Broadbent",124000
+color,null,158,102515793.0,"['crime', 'drama', 'mystery', 'thriller']",The Girl with the Dragon Tattoo,2011,english,Usa,90000000.0,7.8,"Robin Wright,Goran Visnjic,Joely Richardson",54000
+color,christopher spencer,170,59696176.0,,Son of God,2014,english,Usa,22000000.0,5.6,"Roma Downey,Amber Rose Revah,Darwin Shaw",15000
+color,christopher nolan,169,187991439.0,"['adventure', 'drama', 'sci-fi']",Interstellar,2014,english,Usa,165000000.0,8.6,"Matthew McConaughey,Anne Hathaway,Mackenzie Foy",349000
+color,f. gary gray,167,161029270.0,"['biography', 'crime', 'drama', 'history', 'music']",Straight Outta Compton,2015,english,Usa,28000000.0,7.9,"Aldis Hodge,Neil Brown Jr.,R. Marcos Taylor",76000
+,richard linklater,165,25359200.0,['drama'],Boyhood,2014,english,Usa,4000000.0,8.0,"Ellar Coltrane,Lorelei Linklater,Libby Villari",92000
+color,quentin tarantino,580,162804648.0,"['drama', 'western']",Django Unchained,2012,english,Usa,100000000.0,8.5,"Leonardo DiCaprio,Christoph Waltz,Ato Essandoh",199000
+color,michael bay,165,245428137.0,"['action', 'adventure', 'sci-fi']",Transformers: Age of Extinction,2014,english,Usa,210000000.0,5.7,"Bingbing Li,Sophia Myles,Kelsey Grammer",56000
+,christopher nolan,164,448130642.0,"['action', 'thriller']",The Dark Knight Rises,2012,english,Usa,250000000.0,8.5,"Tom Hardy,Christian Bale,Joseph Gordon-Levitt",164000
+color,peter jackson,164,255108370.0,"['adventure', 'fantasy']",The Hobbit: The Battle of the Five Armies,2014,english,New Zealand,250000000.0,7.5,"Aidan Turner,Adam Brown,James Nesbitt",65000
+color,tom hooper,158,148775460.0,"['drama', 'musical', 'romance']",Les Misérables,2012,english,Usa,61000000.0,7.6,"Hugh Jackman,Eddie Redmayne,Anne Hathaway",144000
+color,tom hooper,158,148775460.0,"['drama', 'musical', 'romance']",Les Misérables,2012,english,Usa,61000000.0,7.6,"Hugh Jackman,Eddie Redmayne,Anne Hathaway",144000
+color,kathryn bigelow,157,95720716.0,"['drama', 'history', 'thriller']",Zero Dark Thirty,2012,english,Usa,40000000.0,7.4,"Jennifer Ehle,Harold Perrineau,Parker Sawyers",39000
+color,ridley scott,156,105219735.0,"['action', 'adventure', 'drama', 'history']",Robin Hood,2010,english,Usa,200000000.0,6.7,"Mark Addy,William Hurt,Scott Grimes",17000
+color,,156,183635922.0,"['adventure', 'drama', 'thriller', 'western']",The Revenant,2015,english,Usa,135000000.0,8.1,"Leonardo DiCaprio,Tom Hardy,Lukas Haas",190000
+color,michael bay,154,352358779.0,"['action', 'adventure', 'sci-fi']",Transformers: Dark of the Moon,2011,english,Usa,195000000.0,6.3,"Glenn Morshower,Lester Speight,Kevin Dunn",46000
+color,denis villeneuve,153,60962878.0,"['crime', 'drama', 'mystery', 'thriller']",Prisoners,2013,english,Usa,46000000.0,8.1,"Hugh Jackman,Jake Gyllenhaal,Dylan Minnette",86000
+color,marc webb,153,262030663.0,"['action', 'adventure', 'fantasy']",The Amazing Spider-Man,2012,english,Usa,230000000.0,7.0,"Emma Stone,Andrew Garfield,Chris Zylka",56000
+color,nan,151,228430993.0,"['adventure', 'drama', 'sci-fi']",The Martian,2015,english,Usa,108000000.0,8.1,"Matt Damon,Donald Glover,Benedict Wong",153000
+color,ridley scott,150,65007045.0,"['action', 'adventure', 'drama']",Exodus: Gods and Kings,2014,english,Uk,140000000.0,6.1,"Christian Bale,María Valverde,Ben Mendelsohn",51000
+color,ridley scott,150,65007045.0,"['action', 'adventure', 'drama']",Exodus: Gods and Kings,2014,english,Uk,140000000.0,6.1,"Christian Bale,María Valverde,Ben Mendelsohn",51000
+color,,150,182204440.0,"['biography', 'drama', 'history', 'war']",Lincoln,2012,english,Usa,65000000.0,7.4,"Joseph Gordon-Levitt,Hal Holbrook,Bruce McGill",71000
+color,gore verbinski,650,89289910.0,"['action', 'adventure', 'western']",The Lone Ranger,2013,english,Usa,215000000.0,6.5,"Johnny Depp,Ruth Wilson,Tom Wilkinson",48000
+color,david fincher,149,167735396.0,"['crime', 'drama', 'mystery', 'thriller']",Gone Girl,2014,english,Usa,61000000.0,8.1,"Patrick Fugit,Sela Ward,Emily Ratajkowski",146000
+color,bryan singer,149,233914986.0,"['action', 'adventure', 'fantasy', 'sci-fi', 'thriller']",X-Men: Days of Future Past,2014,english,United States,200000000.0,8.0,"Jennifer Lawrence,Peter Dinklage,Hugh Jackman",82000
+color,christopher nolan,148,292568851.0,"['action', 'adventure', 'sci-fi', 'thriller']",Inception,2010,english,Usa,160000000.0,8.8,"Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt",175000
+color,paul thomas anderson,148,8093318.0,"['comedy', 'crime', 'drama', 'mystery', 'romance']",Inherent Vice,2014,english,Usa,20000000.0,6.7,"Martin Dew,Katherine Waterston,Serena Scott Thomas",18000
+color,sam mendes,148,200074175.0,"['action', 'adventure', 'thriller']",Spectre,2015,english,Uk,245000000.0,6.8,"Christoph Waltz,Rory Kinnear,Stephanie Sigman",85000
+color,,147,407197282.0,"['action', 'adventure', 'sci-fi']",Captain America: Civil War,2016,english,Usa,250000000.0,8.2,"Robert Downey Jr.,Scarlett Johansson,Chris Evans",72000
+color,michael patrick king,146,95328937.0,"['comedy', 'drama', 'romance']",Sex and the City 2,2010,english,Usa,100000000.0,4.3,"Chris Noth,Liza Minnelli,Kristin Davis",0
+color,tate taylor,146,169705587.0,['drama'],The Help,2011,english,Usa,25000000.0,8.1,"Emma Stone,Bryce Dallas Howard,Mike Vogel",75000
+color,francis lawrence,146,424645577.0,"['adventure', 'sci-fi', 'thriller']",The Hunger Games: Catching Fire,2013,english,Usa,130000000.0,7.6,"Jennifer Lawrence,Josh Hutcherson,Sandra Ellis Lafferty",82000
+black and white,steven spielberg,146,79883359.0,"['drama', 'war']",War Horse,2011,english,Usa,66000000.0,7.2,"Jeremy Irvine,Benedict Cumberbatch,Eddie Marsan",28000
+color,michael bay,144,52822418.0,"['action', 'drama', 'thriller', 'war']",13 Hours,2016,english,Usa,50000000.0,7.4,"Toby Stephens,James Badge Dale,David Costabile",44000
+color,guillaume canet,144,41229.0,"['crime', 'drama', 'thriller']",Blood Ties,2013,english,France,25500000.0,6.5,"Mila Kunis,Lili Taylor,Billy Crudup",0
+color,paul thomas anderson,144,16377274.0,['drama'],The Master,2012,english,Usa,32000000.0,7.1,"Mike Howard,Jeffrey W. Jenkins,Bruce Goodchild",27000
+color,bryan singer,144,154985087.0,"['action', 'adventure', 'sci-fi']",X-Men: Apocalypse,2016,english,Usa,178000000.0,7.3,"Jennifer Lawrence,Michael Fassbender,Tye Sheridan",54000
+color,adam mckay,143,2175312.0,['comedy'],Anchorman 2: The Legend Continues,2013,english,Usa,50000000.0,6.3,"Harrison Ford,Will Ferrell,Steve Carell",41000
+color,zack snyder,143,291021565.0,"['action', 'adventure', 'fantasy', 'sci-fi']",Man of Steel,2013,english,Usa,225000000.0,7.2,"Henry Cavill,Christopher Meloni,Harry Lennix",118000
+color,sam mendes,143,304360277.0,"['action', 'adventure', 'thriller']",Skyfall,2012,english,Uk,200000000.0,7.8,"Albert Finney,Helen McCrory,Rory Kinnear",80000
+color,sam mendes,143,304360277.0,"['action', 'adventure', 'thriller']",Skyfall,2012,english,Uk,200000000.0,7.8,"Albert Finney,Helen McCrory,Rory Kinnear",80000
+color,baz luhrmann,143,144812796.0,"['drama', 'romance']",The Great Gatsby,2013,english,Australia,105000000.0,7.3,"Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley",115000
+color,baz luhrmann,143,144812796.0,"['drama', 'romance']",The Great Gatsby,2013,english,Australia,105000000.0,7.3,"Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley",115000
+color,steven spielberg,142,72306065.0,"['drama', 'history', 'thriller']",Bridge of Spies,2015,english,Usa,40000000.0,7.6,"Tom Hanks,Mark Rylance,Amy Ryan",55000
+color,marc webb,142,202853933.0,"['action', 'adventure', 'fantasy', 'sci-fi']",The Amazing Spider-Man 2,2014,english,Usa,200000000.0,6.7,"Emma Stone,Andrew Garfield,B.J. Novak",41000
+color,,142,407999255.0,"['adventure', 'drama', 'sci-fi', 'thriller']",The Hunger Games,2012,english,Usa,78000000.0,7.3,"Jennifer Lawrence,Josh Hutcherson,Anthony Reynolds",140000
+color,joss whedon,141,458991599.0,"['action', 'adventure', 'sci-fi']",Avengers: Age of Ultron,2015,english,Usa,250000000.0,7.5,"Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson",118000
+color,justin chadwick,141,8324748.0,"['biography', 'drama', 'history']",Mandela: Long Walk to Freedom,2013,english,Uk,35000000.0,7.1,"Terry Pheto,Fana Mokoena,Tony Kgoroge",13000
+,oliver stone,141,47307550.0,"['crime', 'drama', 'thriller']",Savages,2012,english,Usa,45000000.0,6.5,"Demián Bichir,Shea Whigham,Gary Stretch",28000
+color,david dobkin,141,47105085.0,"['crime', 'drama']",The Judge,2014,english,Usa,50000000.0,7.4,"Robert Downey Jr.,Robert Duvall,Leighton Meester",47000
+color,ryan murphy,140,80574010.0,"['drama', 'romance']",Eat Pray Love,2010,english,Usa,60000000.0,5.7,"James Franco,Julia Roberts,Billy Crudup",26000
+color,james wan,140,350034110.0,"['action', 'crime', 'thriller']",Furious 7,2015,english,Usa,190000000.0,7.2,"Jason Statham,Paul Walker,Vin Diesel",94000
+color,derek cianfrance,140,21383298.0,"['crime', 'drama', 'thriller']",The Place Beyond the Pines,2012,english,Usa,15000000.0,7.3,"Ryan Gosling,Ben Mendelsohn,Angelo Anthony Pizza",47000
+color,gavin o'connor,140,13651662.0,"['drama', 'sport']",Warrior,2011,english,Usa,25000000.0,8.2,"Tom Hardy,Frank Grillo,Kevin Dunn",77000
+color,,139,150832203.0,"['adventure', 'mystery', 'sci-fi']",Divergent,2014,english,Usa,85000000.0,6.7,"Kate Winslet,Theo James,Mekhi Phifer",49000
+color,gary ross,139,20389967.0,"['action', 'biography', 'drama', 'history', 'war']",Free State of Jones,2016,english,Usa,50000000.0,6.7,"Matthew McConaughey,Donald Watkins,Jessica Collins",10000
+color,tate taylor,139,30513940.0,"['biography', 'drama', 'music']",Get on Up,2014,english,Usa,30000000.0,6.9,"Tika Sumpter,Josh Hopkins,Aunjanue Ellis",11000
+,terrence malick,139,13303319.0,"['drama', 'fantasy']",The Tree of Life,2011,english,Usa,32000000.0,6.7,"Brad Pitt,Tye Sheridan,Fiona Shaw",39000
+color,,138,150117807.0,"['crime', 'drama']",American Hustle,2013,english,Usa,40000000.0,7.3,"Jennifer Lawrence,Christian Bale,Bradley Cooper",63000
+,robert zemeckis,138,93749203.0,"['drama', 'thriller']",Flight,2012,english,Usa,31000000.0,7.3,"Denzel Washington,Bruce Greenwood,Nadine Velazquez",64000
+color,darren aronofsky,138,101160529.0,"['action', 'adventure', 'drama']",Noah,2014,english,Usa,125000000.0,5.8,"Anthony Hopkins,Emma Watson,Logan Lerman",71000
+color,martin scorsese,138,127968405.0,"['mystery', 'thriller']",Shutter Island,2010,english,Usa,80000000.0,8.1,"Leonardo DiCaprio,Joseph Sikora,Nellie Sciutto",53000
+color,ridley scott,138,16969390.0,"['crime', 'drama', 'thriller']",The Counselor,2013,english,Usa,25000000.0,5.3,"Michael Fassbender,Brad Pitt,Goran Visnjic",24000
+,james mangold,138,132550960.0,"['action', 'adventure', 'sci-fi', 'thriller']",The Wolverine,2013,english,Usa,120000000.0,6.7,"Hugh Jackman,Tao Okamoto,Rila Fukushima",68000
+color,daniel espinosa,137,1206135.0,"['crime', 'drama', 'thriller']",Child 44,205,english,Czech Republic,50000000.0,6.4,"Tom Hardy,Fares Fares,Michael Nardone",18000
+color,,137,37304950.0,"['biography', 'crime', 'drama']",J. Edgar,2011,english,Usa,35000000.0,6.6,"Leonardo DiCaprio,Naomi Watts,Kaitlyn Dever",16000
+,walter salles,137,717753.0,"['adventure', 'drama']",On the Road,2012,english,France,25000000.0,6.1,"Kristen Stewart,Viggo Mortensen,Kirsten Dunst",27000
+color,,137,281666058.0,"['adventure', 'sci-fi']",The Hunger Games: Mockingjay - Part 2,2015,english,Usa,160000000.0,6.6,"Jennifer Lawrence,Philip Seymour Hoffman,Josh Hutcherson",38000
+color,angelina jolie pitt,137,115603980.0,"['biography', 'drama', 'sport', 'war']",Unbroken,2014,english,Usa,65000000.0,-1.2,"Finn Wittrock,Jack O'Connell,Alex Russell",35000
+color,angelina jolie pitt,137,115603980.0,"['biography', 'drama', 'sport', 'war']",Unbroken,2014,english,Usa,65000000.0,7.2,"Finn Wittrock,Jack O'Connell,Alex Russell",35000
+,seth macfarlane,136,42615685.0,"['comedy', 'western']",A Million Ways to Die in the West,2014,english,Usa,40000000.0,6.1,"Liam Neeson,Charlize Theron,Seth MacFarlane",24000
+color,anthony russo,136,259746958.0,"['action', 'adventure', 'sci-fi']",Captain America: The Winter Soldier,2014,english,Usa,170000000.0,7.8,"Scarlett Johansson,Chris Evans,Hayley Atwell",55000
+color,rob marshall,136,241063875.0,"['action', 'adventure', 'fantasy']",Pirates of the Caribbean: On Stranger Tides,2011,english,Usa,250000000.0,6.7,"Johnny Depp,Sam Claflin,Stephen Graham",58000
+color,adam shankman,136,38509342.0,"['comedy', 'drama', 'musical', 'romance']",Rock of Ages,2012,english,Usa,75000000.0,5.9,"James Martin Kelly,Shane Hartline,Celina Beach",33000
+color,,136,52474616.0,['drama'],Wall Street: Money Never Sleeps,2010,english,Usa,70000000.0,6.3,"Frank Langella,Austin Pendleton,John Buffalo Mailer",13000
+color,tony gilroy,135,113165635.0,"['action', 'adventure', 'thriller']",The Bourne Legacy,2012,english,Usa,125000000.0,6.7,"Jeremy Renner,Scott Glenn,Stacy Keach",31000
+color,steve mcqueen,134,56667870.0,"['biography', 'drama', 'history']",12 Years a Slave,2013,english,Usa,20000000.0,8.1,"Quvenzhané Wallis,Scoot McNairy,Taran Killam",83000
+color,paul greengrass,134,107100855.0,"['biography', 'drama', 'thriller']",Captain Phillips,2013,english,Usa,55000000.0,7.9,"Tom Hanks,Chris Mulkey,Michael Chernus",65000
+color,david ayer,134,85707116.0,"['action', 'drama', 'war']",Fury,2014,english,Usa,68000000.0,7.6,"Brad Pitt,Logan Lerman,Jim Parrack",82000
+color,clint eastwood,5,47034272.0,"['biography', 'drama', 'music', 'musical']",Jersey Boys,2014,english,Usa,40000000.0,6.9,"Johnny Cannizzaro,Steve Schirripa,Scott Vance",16000

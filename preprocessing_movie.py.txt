@@ -1,0 +1,60 @@
+# =====================================
+# TUGAS PRAKTIKUM DATA MINING – PREPROCESSING
+# =====================================
+
+# 1. Import Library
+import pandas as pd
+
+# 2. Load Dataset
+# Dataset: movie_sample_dataset.csv
+df = pd.read_csv("movie_sample_dataset.csv")
+
+# 3. Memeriksa Data
+print("===== 5 Data Teratas =====")
+print(df.head())
+
+print("\n===== Info Dataset =====")
+print(df.info())
+
+print("\n===== Missing Values =====")
+print(df.isnull().sum())
+
+# 4. Membersihkan Data
+
+# 4.1 Hapus baris dengan NaN di kolom penting (gross & budget)
+df = df.dropna(subset=["gross", "budget"])
+
+# 4.2 Normalisasi teks pada kolom 'color'
+# Contoh: "Color" → "color"
+df["color"] = df["color"].str.lower().str.strip()
+
+# 4.3 Normalisasi teks pada kolom 'country'
+# Contoh: "usa" → "Usa"
+df["country"] = df["country"].str.title().str.strip()
+
+# 4.4 Pastikan tipe data budget & gross numerik
+df["budget"] = pd.to_numeric(df["budget"], errors="coerce")
+df["gross"] = pd.to_numeric(df["gross"], errors="coerce")
+
+# 4.5 Hilangkan nilai negatif di kolom budget & gross (jika ada)
+df = df[(df["budget"] >= 0) & (df["gross"] >= 0)]
+
+# 5. Transformasi Data
+
+# 5.1 Normalisasi teks jadi lowercase pada beberapa kolom
+text_columns = ["director_name", "language", "genres"]
+for col in text_columns:
+    df[col] = df[col].str.lower().str.strip()
+
+# 5.2 Pisahkan kolom 'genres' yang berisi string dipisah dengan '|'
+# Contoh: "action|adventure" → ["action", "adventure"]
+df["genres"] = df["genres"].str.split("|")
+
+# 6. Verifikasi hasil
+print("\n===== Data Setelah Dibersihkan =====")
+print(df.head())
+
+# 7. Simpan dataset bersih ke file baru
+df.to_csv("movie_dataset_cleaned.csv", index=False)
+
+print("\nDataset sudah berhasil disimpan ke 'movie_dataset_cleaned.csv'")
